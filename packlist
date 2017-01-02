@@ -1,4 +1,4 @@
-name = location
+name = OpusEdit
 	type = raw
 	url = https://raw.githubusercontent.com/kepler155c/opus/master/apps/edit.lua
 	filename = opedit
