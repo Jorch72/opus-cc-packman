@@ -1,0 +1,10 @@
+name = location
+	type = raw
+	url = https://raw.githubusercontent.com/kepler155c/opus/master/apps/edit.lua
+	filename = opedit
+	category = utility
+	dependencies = none
+	target = /usr/bin
+	version = 0.5
+	size = 28000
+end
