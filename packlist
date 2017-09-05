@@ -1,6 +1,6 @@
 name = OpusEdit
 	type = raw
-	url = https://raw.githubusercontent.com/kepler155c/opus/master/apps/edit.lua
+	url = https://raw.githubusercontent.com/kepler155c/opus/master/sys/apps/edit.lua
 	filename = opedit
 	category = utility
 	dependencies = none
